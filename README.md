@@ -13,7 +13,7 @@ In 1969, mathematician Volker Strassen discovered an even more ingenious way to 
 
 ![Figure 2](images/strassen_alg.png "For a 2×2 matrix, 7-step multiplication is indeed the absolute minimum")
 
-Matrix multiplication, as the fundamental operation of many GPU operators, is one of the important problems in high performance computing and the cornerstone of applications such as AI. Its algorithmic mechanism itself is quite simple, but in order to achieve faster speed, people have been working hard for many years, the degree of optimization has been limited.
+Matrix multiplication, as the fundamental operation of many GPU operators, is one of the important problems in high performance computing and the cornerstone of applications such as AI. Its algorithmic mechanism itself is quite simple, but in order to achieve faster speed, people have been working hard for many years, the degree of optimization has been limited. [cite](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/)
 
 ![Figure 3](images/history.png "History of improvements in matrix multiplication")
 
