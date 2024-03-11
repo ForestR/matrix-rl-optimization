@@ -81,4 +81,4 @@ This project is licensed under the Apache License - see the `LICENSE.md` file fo
 - Special thanks to the maintainers of the PyTorch library.
 
 ## Contact
-- Insert contact information or remove this section if not applicable.
+[Alex Da Yin](dyin1900@gmail.com)
