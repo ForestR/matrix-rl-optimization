@@ -13,7 +13,7 @@ This project applies reinforcement learning (RL) to discover efficient algorithm
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matrix-rl-optimization.git
+   git clone https://github.com/ForestR/matrix-rl-optimization.git
    ```
 2. Navigate to the cloned directory:
    ```bash
